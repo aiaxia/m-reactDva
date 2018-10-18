@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { connect, Dispatch, SubscriptionAPI } from 'dva';
-import { Layout } from 'antd';
 import styled from 'styled-components';
 import { HomeStore } from './Home.model';
 import Footer from '../components/footer/Footer';
